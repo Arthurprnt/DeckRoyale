@@ -1,0 +1,17 @@
+{
+  "name": "deck_royale",
+  "version": "1.0.0",
+  "description": "Tool to update your Clash Royale deck in a .png file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DraquoDrass",
+  "license": "Mozilla Public License 2.0",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "canvas": "^2.9.1",
+    "fs": "0.0.1-security",
+    "parse-duration": "^1.0.2"
+  }
+}
